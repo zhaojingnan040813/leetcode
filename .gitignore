@@ -1,4 +1,4 @@
-HELP.md
+教学.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -31,3 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
+!/src/main/java/com/教学.md
